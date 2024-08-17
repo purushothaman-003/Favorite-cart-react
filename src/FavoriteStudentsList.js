@@ -1,4 +1,3 @@
-// src/FavoriteStudentsList.js
 import React, { useContext } from 'react';
 import { FavoriteStudentsContext } from './FavoriteStudentsContext';
 
